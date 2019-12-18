@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/chat_background.jpg</file>
+        <file>img/registration_background.jpg</file>
+        <file>img/user.png</file>
+        <file>img/connection_background.jpg</file>
+        <file>img/user_profile.png</file>
+        <file>img/user_group.png</file>
+        <file>img/app_icon.png</file>
+        <file>img/registration_test.jpg</file>
+        <file>img/gambar-background-biru-muda.gif</file>
+    </qresource>
+</RCC>
